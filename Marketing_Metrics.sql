@@ -1,4 +1,5 @@
--- This is a subscription based company that provides you the latest styles of clothing once a month for a monthly fee. They offer 2 tiers of pricing, the basic for $30 and Premium for $87. 
+-- This is a subscription based company that provides you the latest styles of clothing once a month for a monthly fee. 
+-- They offer 2 tiers of pricing, the basic for $30 and Premium for $87. 
 -- Here we will analyze their marketing appproach as well as user experience with their website & services.
 
 -- Inspect the dataset
